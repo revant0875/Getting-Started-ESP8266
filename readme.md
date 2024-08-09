@@ -1,27 +1,28 @@
-ESP8266 & DHT11 Beginner's Guide
-Welcome to the ESP8266 & DHT11 Beginner's Guide! This repository is designed to help beginners understand how to work with the ESP8266 Wi-Fi module and the DHT11 temperature and humidity sensor. Whether you're new to embedded systems or looking to expand your IoT knowledge, this guide will walk you through everything you need to get started.
+#ESP8266 & DHT11 Beginner's Guide
+Welcome to the ESP8266 Beginner's Guide! This repository is designed to help beginners understand how to work with the ESP8266 Wi-Fi module. Whether you're new to embedded systems or looking to expand your IoT knowledge, this guide will walk you through everything you need to get started.
 
-Table of Contents
-Introduction
-Getting Started
-Hardware Requirements
-Software Requirements
-Setting Up the Development Environment
-Basic ESP8266 Setup
-Integrating DHT11 with ESP8266
-Publishing Data to the Cloud
-Advanced Projects
-Best Practices and Optimization
-Further Reading and Resources
-Contributing Guidelines
-Conclusion
-Project Templates
-Introduction
+##Table of Contents
+###[Introduction](##Introduction)
+###Getting Started
+###Hardware Requirements
+###Software Requirements
+###Setting Up the Development Environment
+###Basic ESP8266 Setup
+###Integrating DHT11 with ESP8266
+###Publishing Data to the Cloud
+###Advanced Projects
+###Best Practices and Optimization
+###Further Reading and Resources
+###Contributing Guidelines
+###Conclusion
+###Project Templates
+
+##Introduction
 The ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack and microcontroller capability. The DHT11 is a basic, low-cost digital temperature and humidity sensor. Together, they are a perfect pair for IoT projects where monitoring environmental conditions is crucial.
 
 This repository will guide you through setting up your ESP8266, connecting the DHT11 sensor, and creating projects that monitor and share environmental data over the internet.
 
-Getting Started
+##Getting Started
 Hardware Requirements
 ESP8266 module (e.g., NodeMCU, Wemos D1 Mini)
 DHT11 temperature and humidity sensor
