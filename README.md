@@ -49,12 +49,12 @@ Add the ESP8266 board by following the instructions [here](https://randomnerdtut
 #### Installing DHT11 Library: 
 Install the DHT sensor library by Adafruit from the Arduino Library Manager.
 see [documentation](https://learn.adafruit.com/dht).
-follow the [link](https://learn.adafruit.com/dht/using-a-dhtxx-sensor-with-arduino)to download the library.
+follow the [link](https://learn.adafruit.com/dht/using-a-dhtxx-sensor-with-arduino) to download the library.
 - [x] Mark As Done
 
 #### Basic ESP8266 Setup
 Blinking an LED: Start by uploading a simple sketch to blink an LED. This will ensure your ESP8266 is working correctly.
-* see [code].(codes/DHT11/blink.ino)
+* see [code](codes/DHT11/blink.ino).
 Connecting to Wi-Fi: Learn how to connect your ESP8266 to a Wi-Fi network and confirm the connection by printing the IP address to the Serial Monitor.
 * see [code](codes/DHT11/wifi.ino)
 - [x] Mark As Done
