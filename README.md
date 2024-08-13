@@ -54,9 +54,10 @@ follow the [link](https://learn.adafruit.com/dht/using-a-dhtxx-sensor-with-ardui
 
 #### Basic ESP8266 Setup
 Blinking an LED: Start by uploading a simple sketch to blink an LED. This will ensure your ESP8266 is working correctly.
-* see [code](codes/DHT11/blink.ino).
+* see [code](codes/blink.ino).
+
 Connecting to Wi-Fi: Learn how to connect your ESP8266 to a Wi-Fi network and confirm the connection by printing the IP address to the Serial Monitor.
-* see [code](codes/DHT11/wifi.ino)
+* see [code](codes/wifi.ino)
 - [x] Mark As Done
 
 #### Integrating DHT11 with ESP8266
