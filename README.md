@@ -42,6 +42,7 @@ This repository will guide you through setting up your ESP8266, connecting the D
 
 #### Installing Arduino IDE:
 Follow the [official guide](https://www.arduino.cc/en/software) to install Arduino IDE on your computer.
+
 - [x] Mark As Done
 #### Adding ESP8266 Board to Arduino IDE: 
 Add the ESP8266 board by following the instructions [here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/).
@@ -59,6 +60,7 @@ Blinking an LED: Start by uploading a simple sketch to blink an LED. This will e
 Connecting to Wi-Fi: Learn how to connect your ESP8266 to a Wi-Fi network and confirm the connection by printing the IP address to the Serial Monitor.
 * see [code](codes/wifi.ino)
 - [x] Mark As Done
+
 
 #### Integrating DHT11 with ESP8266
 Wiring Diagram: Follow the wiring diagram provided in the docs/wiring_diagram.png to connect your DHT11 sensor to the ESP8266.
@@ -88,6 +90,7 @@ Code Optimization: Improve your code's efficiency and reliability.
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 For more details, check out our [Contributing Guidelines](docs/CONTRIBUTING.md)
+
 
 ## learn more 
 * [development using micropython](https://docs.micropython.org/en/latest/esp8266/quickref.html)
