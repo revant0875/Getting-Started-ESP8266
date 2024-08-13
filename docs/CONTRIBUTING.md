@@ -28,4 +28,6 @@ Before creating a new issue, please search for existing ones. If you find a bug 
 
 *We welcome contributions of all sizes, from bug fixes to new features.*
 
+##### In any situation, you may send an email to (revant.koriya.dev@gmail.com).
+
 # Thank you for contributing to the ESP8266 & DHT11 Beginner's Guide!

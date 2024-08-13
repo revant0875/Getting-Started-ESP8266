@@ -42,18 +42,26 @@ This repository will guide you through setting up your ESP8266, connecting the D
 
 #### Installing Arduino IDE:
 Follow the [official guide](https://www.arduino.cc/en/software) to install Arduino IDE on your computer.
-- [ ] Mark As Done
+
+- [x] Mark As Done
 #### Adding ESP8266 Board to Arduino IDE: 
-Add the ESP8266 board by following the instructions here.
-- [ ] Mark As Done
+Add the ESP8266 board by following the instructions [here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/).
+- [x] Mark As Done
 #### Installing DHT11 Library: 
 Install the DHT sensor library by Adafruit from the Arduino Library Manager.
-- [ ] Mark As Done
+see [documentation](https://learn.adafruit.com/dht).
+follow the [link](https://learn.adafruit.com/dht/using-a-dhtxx-sensor-with-arduino) to download the library.
+- [x] Mark As Done
 
 #### Basic ESP8266 Setup
 Blinking an LED: Start by uploading a simple sketch to blink an LED. This will ensure your ESP8266 is working correctly.
+* see [code](codes/blink.ino).
+
 Connecting to Wi-Fi: Learn how to connect your ESP8266 to a Wi-Fi network and confirm the connection by printing the IP address to the Serial Monitor.
-- [ ] Mark As Done
+* see [code](codes/wifi.ino)
+- [x] Mark As Done
+
+
 #### Integrating DHT11 with ESP8266
 Wiring Diagram: Follow the wiring diagram provided in the docs/wiring_diagram.png to connect your DHT11 sensor to the ESP8266.
 Basic Code to Read DHT11 Data: Use the provided dht11_basic.ino sketch to read temperature and humidity data and display it on the Serial Monitor.
@@ -82,6 +90,10 @@ Code Optimization: Improve your code's efficiency and reliability.
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 For more details, check out our [Contributing Guidelines](docs/CONTRIBUTING.md)
+
+
+## learn more 
+* [development using micropython](https://docs.micropython.org/en/latest/esp8266/quickref.html)
 
 ## Conclusion
 We hope this guide helps you get started with the ESP8266 and DHT11 sensor. Keep experimenting, and don’t hesitate to reach out if you have any questions!
